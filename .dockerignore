@@ -1,0 +1,6 @@
+.git/
+CPAN/arch/
+!CPAN/arch/5.28/
+Bin/
+!Bin/aarch64-linux/
+!Bin/x84-64-linux/
